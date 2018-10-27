@@ -7,3 +7,5 @@ fields:
   label: Welcome
   name: welcome
   description: First template
+pages:
+- blog.md
