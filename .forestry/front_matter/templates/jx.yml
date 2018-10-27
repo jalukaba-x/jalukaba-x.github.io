@@ -1,0 +1,9 @@
+---
+label: jx
+hide_body: false
+is_partial: false
+fields:
+- type: textarea
+  label: Welcome
+  name: welcome
+  description: First template
