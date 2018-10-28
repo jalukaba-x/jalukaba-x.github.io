@@ -1,5 +1,6 @@
 ---
 title: About
+date: 2018-10-01 00:00:00 +07:00
 permalink: "/about/"
 layout: page
 ---
