@@ -18,3 +18,4 @@ markdown: kramdown
 theme: minima
 plugins:
 - jekyll-feed
+instagram_user: jalukaba_x
