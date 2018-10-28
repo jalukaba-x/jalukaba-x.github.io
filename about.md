@@ -1,18 +1,13 @@
 ---
 title: About
+date: 2018-10-01 00:00:00 +07:00
 permalink: "/about/"
 layout: page
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Website ini salah satu temlat corat coretnya saya, nulis apa aja, berbagai hal yang ada dalam fikiran dan perasaan. Kalau mau iseng baca bisa maen ke blog saya:
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+1.Mengenai bahasan keislaman dan hal-hak yang berkaitan dengan kajian keislaman silahkan maen ke: [islami.space](https://www.islami.space/).
+2. Mengenai bahasan ajaran-ajaran yang ada ada dalam berbagai agama, keyakinan, faham, dkk silahkan maen ke [jalukaba.faith](https://www.jalukaba.faith/).
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+Mungkin laen kali kalau ada rezeki dan waktunya akan nambah lagi web atau blog dengan bahasan-bahasan dalam tema lain. 
