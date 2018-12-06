@@ -5,6 +5,7 @@ categories:
 - October
 tags:
 - damai
+Field name: excerpt
 layout: post
 ---
 
