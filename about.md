@@ -9,11 +9,14 @@ Website ini salah satu tempat corat coretnya saya, nulis apa aja, berbagai hal y
 
 1. Mengenai bahasan keislaman dan hal-hak yang berkaitan dengan kajian keislaman silahkan maen ke: [islami.space](https://www.islami.space/).
 
-2. Mengenai bahasan ajaran-ajaran yang ada ada dalam berbagai agama, keyakinan, faham, dkk silahkan maen ke [jalukaba.faith](https://www.jalukaba.faith/).
+2. Mengenai bahasan ajaran-ajaran yang ada ada dalam berbagai agama, keyakinan, faham, dkk silahkan maen ke [jalukaba.faith](https://www.jalukaba.faith/)
 
-Mungkin laen kali kalau ada rezeki dan waktunya akan nambah lagi web atau blog dengan bahasan-bahasan dalam tema lain.
+3. Dalam bahasan spiritual bisa maen ke [Mr-spiritualist.com](https://www.mr-spiritualist.com)
+
+Mudah-mudahan akan nambah lagi web atau blog dengan bahasan-bahasan dalam tema lain.
 
 Wokeh, selamat ngopiiy dan smukiiy..
 
+Salam damai selalu
 
 KLepus.. WhuUuZz
